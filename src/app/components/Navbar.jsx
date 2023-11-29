@@ -43,11 +43,11 @@ const Navbar = () => {
           EDUKARE.
         </h1>
         <ul className=" uppercase p-4">
-          <li className="p-4 border-b border-gray-600 text-white cursor-pointer">Home</li>
-          <li className="p-4 border-b border-gray-600 text-white cursor-pointer">About</li>
-          <li className="p-4 border-b border-gray-600 text-white cursor-pointer">Features</li>
-          <li className="p-4 border-b border-gray-600 text-white cursor-pointer">Services</li>
-          <li className="p-4 text-white cursor-pointer">Contact</li>
+          <li className="p-4 border-b border-gray-600 text-white cursor-pointer"><Link href="/">Home</Link></li>
+          <li className="p-4 border-b border-gray-600 text-white cursor-pointer"><Link href="/about">About</Link></li>
+          <li className="p-4 border-b border-gray-600 text-white cursor-pointer"><Link href="/features">Features</Link></li>
+          <li className="p-4 border-b border-gray-600 text-white cursor-pointer"><Link href="/products">Services</Link></li>
+          <li className="p-4 text-white cursor-pointer"><Link href="/contact">Contact</Link></li>
         </ul>
       </div>
     </div>
