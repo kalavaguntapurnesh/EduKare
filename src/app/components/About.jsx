@@ -39,7 +39,7 @@ const About = () => {
 
       <div className='md:mt-0 mt-8'>
         <div className="md:flex md:flex-row md:pt-10">
-          <div className="flex flex-row md:w-1/2 md:pl-20">
+          <div className="flex flex-row md:w-1/2 md:pl-20 ">
             <div>
               {/* <img src={serviceOne} alt="" /> */}
               <Image src="/service-1.png"  alt="img name" width={128} height={129} />

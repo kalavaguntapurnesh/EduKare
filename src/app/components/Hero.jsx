@@ -8,12 +8,22 @@ import { GrAd } from "react-icons/gr";
 const Hero = () => {
   return (
     <div className="text-black md:mt-40 mt-16">
-      <div className="mt-10 ">
+      <div className="mt-10 md:block hidden">
         <h1
-          className="md:text-6xl text-5xl font-extrabold  text-primaryColor  md:ml-40 ml-[8px] md:mr-40 mr-[8px] text-center
+          className="md:text-6xl text-5xl font-extrabold  text-primaryColor  md:ml-40 ml-[2px] md:mr-40 mr-[2px] text-center
          "
         >
           Create an SEO work<br></br> that manages itself.
+        </h1>
+
+      </div>
+
+      <div className="mt-10 mb-8 block md:hidden">
+        <h1
+          className="md:text-6xl text-5xl font-extrabold  text-primaryColor mr-[2px] text-center
+         "
+        >
+          Create an SEO work that manages itself.
         </h1>
 
       </div>

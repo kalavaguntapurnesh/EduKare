@@ -7,12 +7,14 @@ import Middle from "@/app/components/Middle"
 import Carousel from "@/app/components/Carousel"
 import Clients from "@/app/components/Clients"
 import Footer from "@/app/components/Footer"
+import ScrollToTop from "@/app/components/ScrollToTop"
 
 export default function Home() {
   return (
     <main>
       <Navbar/>
       <Hero/>
+      <ScrollToTop />
       <Middle/>
       <Carousel/>
       <Clients/>
