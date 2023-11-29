@@ -4,7 +4,7 @@ import Image from "next/image";
 const About = () => {
   return (
     <div className="bg-white">
-      <div className="w-full h-auto flex flex-wrap flex-col items-center md:pt-28 mt-16 bg-white">
+      <div className="w-full h-auto flex flex-wrap flex-col items-center md:pt-32 pt-8 bg-white">
         <h1 className=" md:text-4xl text-4xl pt-4 text-primaryColor font-bold text-center">
           Our Mission
         </h1>
@@ -143,7 +143,7 @@ const About = () => {
               </p>
             </div>
           </div>
-          <div className="flex flex-row md:w-1/2 md:pl-10 mb-10">
+          <div className="flex flex-row md:w-1/2 md:pl-10 pb-10">
             <div>
               {/*<img src={serviceSix} alt="" />*/}
               <Image
