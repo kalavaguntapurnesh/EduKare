@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Middle = () => {
   return (
-    <div className="h-auto md:mt-6">
+    <div className="h-auto md:pt-6 bg-white">
       <div className="text-center pt-10 h-auto flex flex-wrap flex-col">
         <div className="w-full h-auto flex flex-wrap flex-col items-center">
           <h1 className=" md:text-4xl text-4xl pt-4 text-primaryColor font-bold text-center">

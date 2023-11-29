@@ -10,7 +10,7 @@ const Footer = () => {
     <div className=' bg-footer text-primaryColor'>
      
      <div className="md:w-full md:flex md:flex-wrap
-     md:justify-evenly md:mt-10 md:pb-10 md:pt-12 h-[160px]
+     md:justify-evenly md:pb-10 md:pt-12 h-[160px]
      ">
         <div>
           <h1 className='md:font-bold font-semibold text-center pt-4 pb-2'>© edukare</h1>

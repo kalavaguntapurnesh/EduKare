@@ -7,7 +7,7 @@ import { GrAd } from "react-icons/gr";
 
 const Hero = () => {
   return (
-    <div className="text-black md:mt-40 mt-16">
+    <div className="text-black md:pt-32 mt-16 bg-white">
       <div className="mt-10 md:block hidden">
         <h1
           className="md:text-6xl text-5xl font-extrabold  text-primaryColor  md:ml-40 ml-[2px] md:mr-40 mr-[2px] text-center
