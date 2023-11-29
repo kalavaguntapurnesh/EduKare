@@ -3,7 +3,7 @@ import Image from "next/image";
 
 function Products() {
   return (
-    <div className="w-full h-auto flex flex-wrap flex-col items-center bg-white md:pt-32 pt-8">
+    <div className="w-full h-auto flex flex-wrap flex-col items-center bg-white md:pt-32 pt-32">
       <h1 className=" md:text-4xl text-4xl pt-4 text-primaryColor font-bold text-center">
         Our Services
       </h1>
@@ -11,7 +11,7 @@ function Products() {
 
       <div className="mt-12">
         <div className="flex md:flex-row flex-col justify-evenly space-x-6 md:ml-24 md:mr-24">
-          <div className="divider lg:divider-horizontal"></div>
+          <div className="divider lg:divider-horizontal md:ml-0 ml-4 md:mr-0 mr-4"></div>
           <div className="flex flex-col">
             <h1 className="md:text-3xl text-3xl pt-4 text-primaryColor md:text-justify text-center font-bold">
               Services One
@@ -27,7 +27,7 @@ function Products() {
             </p>
           </div>
 
-          <div className="divider lg:divider-horizontal"></div>
+          <div className="divider lg:divider-horizontal md:ml-0 ml-4 md:mr-0 mr-4"></div>
 
           <div className="flex flex-col ">
             <h1 className=" md:text-3xl text-3xl pt-4 text-primaryColor md:text-justify text-center font-bold ">
@@ -44,7 +44,7 @@ function Products() {
             </p>
           </div>
 
-          <div className="divider lg:divider-horizontal"></div>
+          <div className="divider lg:divider-horizontal md:ml-0 ml-4 md:mr-0 mr-4"></div>
 
           <div className="flex flex-col ">
             <h1 className=" md:text-3xl text-3xl pt-4 text-primaryColor md:text-justify text-center font-bold">
@@ -61,7 +61,7 @@ function Products() {
             </p>
           </div>
 
-          <div className="divider lg:divider-horizontal"></div>
+          <div className="divider lg:divider-horizontal md:ml-0 ml-4 md:mr-0 mr-4"></div>
         </div>
       </div>
 

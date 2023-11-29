@@ -4,7 +4,7 @@ import Image from 'next/image'
 const Features = () => {
   return (
     <div className='bg-white'>
-     <div className="w-full h-auto flex flex-wrap flex-col items-center md:pt-32 pt-8">
+     <div className="w-full h-auto flex flex-wrap flex-col items-center md:pt-32 pt-32">
           <h1 className=" md:text-4xl text-4xl pt-4 text-primaryColor font-bold text-center">
             Our Features
           </h1>

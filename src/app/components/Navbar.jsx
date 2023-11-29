@@ -13,7 +13,8 @@ const Navbar = () => {
   };
 
   return (
-    <div className="text-black flex justify-between h-24 w-full shadow-xl md:fixed md:top-0 md:z-20 bg-white">
+    <div className="text-black flex justify-between h-24 w-full md:shadow-xl shadow-xl md:fixed fixed md:top-0 top-0
+     md:z-20 z-20 bg-white">
       <h1 className="md:w-1/2  text-3xl text-red-500 font-bold  md:pl-12 pl-6 pt-6 cursor-pointer">EDU<span className='text-primaryColor'>KARE.</span></h1>
       <ul className="hidden md:flex  w-1/2 pl-24 pt-4">
         <li className="p-4 cursor-pointer text-primaryColor font-medium hover:text-black"><Link href="/">Home</Link></li>
