@@ -72,7 +72,7 @@ function Products() {
         <div className="w-28 h-1 border-b-4 border-red-400 mt-1"></div>
       </div>
 
-      <div className="md:flex md:w-full w-full border-2 border-red-500 mt-2">
+      <div className="md:flex md:w-full w-full mt-2">
         <div className="md:w-1/2 pt-16">
           <h1
             className="md:text-4xl text-4xl font-semibold text-center
