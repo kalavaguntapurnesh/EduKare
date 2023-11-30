@@ -10,7 +10,6 @@ export default function Home() {
     <main>
       <Navbar/>
       <Features/>
-      <ScrollToTop/>
       <Footer/>
     </main>
   )

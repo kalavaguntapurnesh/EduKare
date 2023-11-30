@@ -10,7 +10,7 @@ function Products() {
       <div className="w-28 h-1 border-b-4 border-red-400 mt-1"></div>
 
       <div className="mt-12">
-        <div className="flex md:flex-row flex-col justify-evenly space-x-6 md:ml-24 md:mr-24">
+        <div className="flex lg:flex-row flex-col justify-evenly space-x-6 md:ml-24 md:mr-24">
           <div className="divider lg:divider-horizontal md:ml-0 ml-4 md:mr-0 mr-4"></div>
           <div className="flex flex-col">
             <h1 className="md:text-3xl text-3xl pt-4 text-primaryColor md:text-justify text-center font-bold">
@@ -91,7 +91,7 @@ function Products() {
             and emoticons to get them excited.
           </p>
 
-          <div className="flex justify-center mt-6">
+          <div className="flex justify-center mt-6 pb-4">
             <button
               type="button"
               className="bg-red-500 px-8 py-2.5 text-center 

@@ -28,7 +28,7 @@ const About = () => {
           alt="Picture of the author"
           width={200}
           height={200}
-          className="md:w-1/4 w-full h-[360px] md:ml-0 ml-6 md:mr-0 mr-6"
+          className="lg:w-1/4 w-full h-[360px] md:ml-0 ml-6 md:mr-0 mr-6"
         />
       </div>
 
