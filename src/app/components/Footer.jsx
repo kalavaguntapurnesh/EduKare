@@ -48,7 +48,7 @@ const Footer = () => {
             <h6 className="font-semibold text-black lg:text-base">Support</h6>
             <ul>
                 <li className="py-2 text-sm"><Link href = "/about">Pricing</Link></li>
-                <li className="py-2 text-sm"><Link href = "/about">Documentation</Link></li>
+                <li className="py-2 text-sm"><Link href = "/about">Contact</Link></li>
                 <li className="py-2 text-sm"><Link href = "/about">Guides</Link></li>
                 <li className="py-2 text-sm"><Link href = "/about">API Status</Link></li>
             </ul>
