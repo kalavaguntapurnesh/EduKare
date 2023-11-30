@@ -85,13 +85,13 @@ const Carousel = () => {
           </div>
         </div>
 
-        <div className="flex flex-col md:w-1/2 md:mt-0 mt-4">
+        <div className="flex flex-col md:w-1/2 md:mt-0 mt-4 ">
           <Image
             src="/5340737.jpg"
             alt="img name"
             width={3000}
             height={2000}
-            className="mt-2 rounded-2xl md:w-2/3 md:ml-24 md:mr-0 w-full"
+            className="mt-12 rounded-2xl md:w-2/3 md:ml-24 md:mr-0 w-full "
           />
         </div>
       </div>
