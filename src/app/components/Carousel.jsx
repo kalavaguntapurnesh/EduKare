@@ -13,7 +13,7 @@ const Carousel = () => {
 
       <div className="w-full h-auto mt-auto">
         <div className="md:flex md:w-full mt-4">
-          <div className="md:w-1/2 w-full">
+          <div className="md:w-1/2 w-full ">
             <Image
               src="/5995729.jpg"
               alt="img name"
@@ -27,7 +27,7 @@ const Carousel = () => {
           <div className="md:flex md:flex-col md:w-1/2 flex flex-col ">
             <h1
               className="md:text-4xl text-4xl font-semibold
-            md:mb-5 md:mt-16 
+            md:mb-5 md:mt-16 mt-4
              text-primaryColor  text-center"
             >
               Under, right, sector!

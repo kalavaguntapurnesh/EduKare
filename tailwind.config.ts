@@ -15,7 +15,7 @@ const config: Config = {
       colors: {
         primaryColor: '#1a2b6d',
         footer: '#EAEAEA',
-        inputColor: '#F8F8F8'
+        inputColor: '#F8F8F8',
       
       },
       fontFamily:{
