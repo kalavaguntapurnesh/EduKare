@@ -24,16 +24,16 @@ const Footer = () => {
           a veniam quod perspiciatis 
          laborum quisquam qui. Possimus, voluptatum.</p>
          <div className="flex justify-between md:w-[75%] my-6 ">
-            <FaFacebook size={30} className = "cursor-pointer" />
-            <FaLinkedinIn size={30}  className = "cursor-pointer"  />
-            <FaGithub size={30}  className = "cursor-pointer"  />
-            <FaInstagram size={30}  className = "cursor-pointer"  />
-            <FaTwitter size={30}  className = "cursor-pointer"  />
+            <Link href="/"><FaFacebook size={30} className = "cursor-pointer" /></Link>
+            <Link href="/"><FaLinkedinIn size={30}  className = "cursor-pointer"  /></Link>
+            <Link href="/"><FaGithub size={30}  className = "cursor-pointer"  /></Link>
+            <Link href="/"><FaInstagram size={30}  className = "cursor-pointer"  /></Link>
+            <Link href="/"><FaTwitter size={30}  className = "cursor-pointer"  /></Link>
             
          </div>
       </div>
 
-      <div className="grid grid-cols-4 lg:col-span-2 lg:gap-4 gap-2 mt-6 lg:px-12">
+      <div className="grid grid-cols-4 lg:col-span-2 lg:gap-4 gap-2 mt-6 lg:px-12 lg:pb-2 lg:ml-0 ml-[24px]">
         <div >
             <h6 className="font-semibold text-black lg:text-base">Solutions</h6>
             <ul>
