@@ -40,7 +40,7 @@ const Hero = () => {
       </div>
 
       <div className="mt-4 md:hidden">
-        <p className="text-lg text-center">
+        <p className="text-lg text-center ml-2 mr-2">
           Automatically write, publish and rank blog posts on an auto-build SEO
           blog, that
           bring traffic to your website and grow your online presence.
