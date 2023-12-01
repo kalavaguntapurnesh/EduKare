@@ -7,7 +7,7 @@ import Middle from "@/app/components/Middle"
 import Carousel from "@/app/components/Carousel"
 import Clients from "@/app/components/Clients"
 import Footer from "@/app/components/Footer"
-
+import Accordion from "@/app/components/Accordion"
 import ScrollToTop from "@/app/components/ScrollToTop"
 
 export default function Home() {
@@ -19,6 +19,7 @@ export default function Home() {
       <Middle/>
       <Carousel/>
       <Clients/>
+      <Accordion/>
       <Footer/>
     </main>
   )
