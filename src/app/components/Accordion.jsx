@@ -17,7 +17,7 @@ const Accordion = () => {
         <div className="w-40 h-1 border-b-4 border-red-400 mt-2"></div>
       </div>
 
-      <div className="mt-20 mb-20">
+      <div className="pt-20 pb-20">
 
       <div className=" md:ml-40 md:mr-40  bg-white">
         <div className="py-2  pl-4 pr-4">
