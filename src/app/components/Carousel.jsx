@@ -13,12 +13,12 @@ const Carousel = () => {
 
       <div className="w-full h-auto mt-auto">
         <div className="md:flex md:w-full mt-4">
-          <div className="md:w-1/2 w-full ">
+          <div className="md:w-1/2 flex justify-center align-items-center ">
             <Image
               src="/5995729.jpg"
               alt="img name"
-              width={3000}
-              height={2000}
+              width={300}
+              height={200}
               className="mt-2 rounded-2xl md:w-2/3 
                md:ml-24 w-full"
             />
@@ -85,15 +85,25 @@ const Carousel = () => {
           </div>
         </div>
 
-        <div className="flex flex-col md:w-1/2 md:mt-0 mt-4 ">
+        {/* <div className="flex  justify-center  align-items-center flex-col md:w-1/2 md:mt-0 mt-4 ">
           <Image
             src="/5340737.jpg"
             alt="img name"
-            width={3000}
-            height={2000}
+            width={300}
+            height={200}
             className="mt-12 rounded-2xl md:w-2/3 md:ml-24 md:mr-0 w-full "
           />
-        </div>
+        </div> */}
+         <div className="md:w-1/2 flex justify-center align-items-center ">
+            <Image
+              src="/5340737.jpg"
+              alt="img name"
+              width={300}
+              height={200}
+              className="mt-2 rounded-2xl md:w-2/3 
+               md:ml-24 w-full"
+            />
+          </div>
       </div>
     </div>
   );
