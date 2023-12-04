@@ -5,8 +5,11 @@ import {
   FaFacebook,
   FaGithub,
   FaInstagram,
-  FaTwitter,
+  FaGooglePlay
 } from "react-icons/fa";
+import { FaXTwitter, FaYoutube} from "react-icons/fa6";
+
+
 
 const Footer = () => {
   return (
@@ -24,11 +27,11 @@ const Footer = () => {
           a veniam quod perspiciatis 
          laborum quisquam qui. Possimus, voluptatum.</p>
          <div className="flex justify-between md:w-[75%] my-6 ">
-            <Link href="/"><FaFacebook size={30} className = "cursor-pointer" /></Link>
-            <Link href="/"><FaLinkedinIn size={30}  className = "cursor-pointer"  /></Link>
-            <Link href="/"><FaGithub size={30}  className = "cursor-pointer"  /></Link>
-            <Link href="/"><FaInstagram size={30}  className = "cursor-pointer"  /></Link>
-            <Link href="/"><FaTwitter size={30}  className = "cursor-pointer"  /></Link>
+            <Link href="/about"><FaFacebook size={30} className = "cursor-pointer" /></Link>
+            <Link href="/about"><FaLinkedinIn size={30}  className = "cursor-pointer"  /></Link>
+            <Link href="/about"><FaGooglePlay size={30}  className = "cursor-pointer"  /></Link>
+            <Link href="/about"><FaInstagram size={30}  className = "cursor-pointer"  /></Link>
+            <Link href="/about"><FaXTwitter size={30}  className = "cursor-pointer"  /></Link>
             
          </div>
       </div>
