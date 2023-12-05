@@ -22,7 +22,7 @@ const Hero = () => {
           className="md:text-6xl text-5xl font-extrabold  text-primaryColor mr-[2px] text-center
          "
         >
-          Creating a revolutionary interactive learning.
+          Empower the learning with us, for a better future.
         </h1>
       </div>
 
