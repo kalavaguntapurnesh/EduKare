@@ -7,7 +7,6 @@ import { GrAd } from "react-icons/gr";
 
 const Hero = () => {
   return (
-    
     <div className="text-black md:pt-32 pt-28 bg-white">
       <div className="md:mt-10 mt-4 md:block hidden">
         <h1
@@ -16,7 +15,6 @@ const Hero = () => {
         >
           Creating a revolutionary<br></br> interactive learning.
         </h1>
-
       </div>
 
       <div className="mt-10 mb-8 block md:hidden">
@@ -26,23 +24,22 @@ const Hero = () => {
         >
           Creating a revolutionary interactive learning.
         </h1>
-
       </div>
-
-     
 
       <div className="mt-6 md:block hidden mb-4">
         <p className="md:text-lg text-lg md:ml-40 ml-8 md:mr-40 mr-8 text-center text-gray-700">
-        EduKare is a comprehensive and innovative solution designed to streamline and enhance various<br></br>
-          aspects of the education sector and enhance the overall learning experience.
+          EduKare is a comprehensive and innovative solution designed to
+          streamline and enhance various<br></br>
+          aspects of the education sector and enhance the overall learning
+          experience.
         </p>
       </div>
 
       <div className="mt-4 md:hidden">
         <p className="text-lg text-center ml-2 mr-2">
-          Automatically write, publish and rank blog posts on an auto-build SEO
-          blog, that
-          bring traffic to your website and grow your online presence.
+          EduKare is a comprehensive and innovative solution designed to
+          streamline and enhance various aspects of the education sector and
+          enhance the overall learning experience.
         </p>
       </div>
 
@@ -58,21 +55,25 @@ const Hero = () => {
 
       <div className="mt-16">
         <div className=" flex md:flex-row flex-col justify-evenly">
-        <div className="md:flex md:flex-row md:justify-evenly flex flex-row justify-evenly mb-6">
-        <GrAd className = "w-[40px] h-[40px] text-primaryColor" />
-        <p className=" ml-4 pt-2 text-primaryColor">Improved Quality of Education</p>
-        </div>
-        <div className="md:flex md:flex-row md:justify-evenly flex flex-row justify-evenly mb-6">
-        <SiHomeassistantcommunitystore className = "w-[40px] h-[40px] text-primaryColor" />
-        <p className=" ml-4 pt-2 text-primaryColor">Academic Progress Management</p>
-        </div>
+          <div className="md:flex md:flex-row md:justify-evenly flex flex-row justify-evenly mb-6">
+            <GrAd className="w-[40px] h-[40px] text-primaryColor" />
+            <p className=" ml-4 pt-2 text-primaryColor">
+              Improvised Quality of Education
+            </p>
+          </div>
+          <div className="md:flex md:flex-row md:justify-evenly flex flex-row justify-evenly mb-6">
+            <SiHomeassistantcommunitystore className="w-[40px] h-[40px] text-primaryColor" />
+            <p className=" ml-4 pt-2 text-primaryColor">
+              Academic Progress Management
+            </p>
+          </div>
 
-        <div className="md:flex md:flex-row md:justify-evenly flex flex-row justify-evenly mb-6">
-        <GrTechnology className = "w-[40px] h-[40px] text-primaryColor" />
-        <p className=" ml-4 pt-2 text-primaryColor">Organized Lesson Plans</p>
-        </div>
-    
-        
+          <div className="md:flex md:flex-row md:justify-evenly flex flex-row justify-evenly mb-6">
+            <GrTechnology className="w-[40px] h-[40px] text-primaryColor" />
+            <p className=" ml-4 pt-2 text-primaryColor">
+             Highly Organized Lesson Planning
+            </p>
+          </div>
         </div>
       </div>
     </div>
