@@ -22,7 +22,7 @@ const Hero = () => {
           className="md:text-6xl text-5xl font-extrabold  text-primaryColor mr-[2px] text-center
          "
         >
-          Empower the learning with us, for a better future.
+          Empower learning with us, for a better future.
         </h1>
       </div>
 
