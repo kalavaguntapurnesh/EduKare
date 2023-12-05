@@ -14,7 +14,7 @@ const Hero = () => {
           className="md:text-6xl text-5xl font-extrabold  text-primaryColor  md:ml-40 ml-[2px] md:mr-40 mr-[2px] text-center
          "
         >
-          Create an SEO work<br></br> that manages itself.
+          Creating a revolutionary<br></br> interactive learning.
         </h1>
 
       </div>
@@ -24,7 +24,7 @@ const Hero = () => {
           className="md:text-6xl text-5xl font-extrabold  text-primaryColor mr-[2px] text-center
          "
         >
-          Create an SEO work that manages itself.
+          Creating a revolutionary interactive learning.
         </h1>
 
       </div>
@@ -33,9 +33,8 @@ const Hero = () => {
 
       <div className="mt-6 md:block hidden mb-4">
         <p className="md:text-lg text-lg md:ml-40 ml-8 md:mr-40 mr-8 text-center text-gray-700">
-          Automatically write, publish and rank blog posts on an auto-build SEO
-          work, that <br></br>
-          bring traffic to your website and grow your online presence.
+        EduKare is a comprehensive and innovative solution designed to streamline and enhance various<br></br>
+          aspects of the education sector and enhance the overall learning experience.
         </p>
       </div>
 
@@ -61,16 +60,16 @@ const Hero = () => {
         <div className=" flex md:flex-row flex-col justify-evenly">
         <div className="md:flex md:flex-row md:justify-evenly flex flex-row justify-evenly mb-6">
         <GrAd className = "w-[40px] h-[40px] text-primaryColor" />
-        <p className=" ml-4 pt-2 text-primaryColor">Software Grade Assurance</p>
+        <p className=" ml-4 pt-2 text-primaryColor">Improved Quality of Education</p>
         </div>
         <div className="md:flex md:flex-row md:justify-evenly flex flex-row justify-evenly mb-6">
         <SiHomeassistantcommunitystore className = "w-[40px] h-[40px] text-primaryColor" />
-        <p className=" ml-4 pt-2 text-primaryColor">Highest Reliable Software</p>
+        <p className=" ml-4 pt-2 text-primaryColor">Academic Progress Management</p>
         </div>
 
         <div className="md:flex md:flex-row md:justify-evenly flex flex-row justify-evenly mb-6">
         <GrTechnology className = "w-[40px] h-[40px] text-primaryColor" />
-        <p className=" ml-4 pt-2 text-primaryColor">Attested Automation Test</p>
+        <p className=" ml-4 pt-2 text-primaryColor">Organized Lesson Plans</p>
         </div>
     
         
