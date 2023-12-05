@@ -19,10 +19,10 @@ const Hero = () => {
 
       <div className="mt-10 mb-8 block md:hidden">
         <h1
-          className="md:text-6xl text-5xl font-extrabold  text-primaryColor mr-[2px] text-center
+          className="md:text-6xl text-4xl font-extrabold  text-primaryColor mr-[2px] text-center
          "
         >
-          Creating a revolutionary interactive learning.
+          Empower the learning with us, for a better future.
         </h1>
       </div>
 
