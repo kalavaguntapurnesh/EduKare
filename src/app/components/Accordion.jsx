@@ -31,7 +31,7 @@ const Accordion = () => {
               aria-expanded={accordionOpen}
               aria-controls={`accordion-text-01`}
             >
-              <span>What are the advantages of our platform?</span>
+              <span className="text-primaryColor">What are the advantages of our platform?</span>
               <svg
                 className="fill-indigo-500 shrink-0 ml-8"
                 width="16"
@@ -70,11 +70,10 @@ const Accordion = () => {
             }`}
           >
             <div className="overflow-hidden">
-              <p className="pb-3 pt-3">
-                If you go over your organisations or user limit, a member of the
-                team will reach out about bespoke pricing. In the meantime, our
-                collaborative features wont appear in accounts or users that are
-                over the 100-account or 1,000-user limit.
+              <p className="pb-3 pt-3 text-base">
+              The software facilitates student enrollment, data management, and academic progress tracking. 
+              It allows educators to keep detailed records of each student performance and offers insights 
+              into their strengths and weaknesses.
               </p>
             </div>
           </div>
@@ -95,7 +94,7 @@ const Accordion = () => {
               aria-expanded={accordionOpen}
               aria-controls={`accordion-text-01`}
             >
-              <span>How are we better than others?</span>
+              <span className="text-primaryColor">How are we better than others?</span>
               <svg
                 className="fill-indigo-500 shrink-0 ml-8"
                 width="16"
@@ -134,9 +133,9 @@ const Accordion = () => {
             }`}
           >
             <div className="overflow-hidden">
-              <p className="pb-3 pt-3">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates animi temporibus illo 
-              esse itaque aliquam optio harum delectus ab error aspernatur, qui ducimus, dolores mollitia dignissimos minus id voluptatem!
+              <p className="pb-3 pt-3 text-base">
+              Education care software assists teachers in creating and organizing lesson plans, syllabi, and learning materials.
+               It ensures that the curriculum aligns with educational standards and can be easily customized to meet specific needs.
               </p>
             </div>
           </div>
@@ -157,7 +156,7 @@ const Accordion = () => {
               aria-expanded={accordionOpen}
               aria-controls={`accordion-text-01`}
             >
-              <span>How can you contact us instantly?</span>
+              <span className="text-primaryColor">How can you contact us instantly?</span>
               <svg
                 className="fill-indigo-500 shrink-0 ml-8"
                 width="16"
@@ -196,7 +195,7 @@ const Accordion = () => {
             }`}
           >
             <div className="overflow-hidden">
-              <p className="pb-3 pt-3">
+              <p className="pb-3 pt-3 text-base">
                 If you go over your organisations or user limit, a member of the
                 team will reach out about bespoke pricing. In the meantime, our
                 collaborative features wont appear in accounts or users that are

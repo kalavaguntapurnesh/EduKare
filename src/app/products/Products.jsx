@@ -14,13 +14,13 @@ function Products() {
           <div className="divider lg:divider-horizontal md:ml-0 ml-4 md:mr-0 mr-4"></div>
           <div className="flex flex-col">
             <h1 className="md:text-3xl text-3xl pt-4 text-primaryColor md:text-justify text-center font-bold">
-              Services One
+              Interactive Learning
             </h1>
             <p className=" mt-4 md:text-base text-base text-gray-700">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Doloribus aut esse, maxime consectetur eligendi hic tempore modi
-              sequi alias, nobis nostrum obcaecati ratione provident suscipit
-              nam, rerum harum! Quidem, sed?
+              Edukare provides a platform for seamless communication between
+              teachers, students, and parents. It may include messaging systems,
+              email notifications, and discussion forums, enabling
+              to stay informed in the educational process.
             </p>
             <p className="font-semibold text-red-500 mt-4 cursor-pointer">
               READ MORE &#8594;
@@ -31,13 +31,14 @@ function Products() {
 
           <div className="flex flex-col ">
             <h1 className=" md:text-3xl text-3xl pt-4 text-primaryColor md:text-justify text-center font-bold ">
-            Services Two
+              Assesment Grading
             </h1>
             <p className="mt-4 md:text-base text-base text-gray-700">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Quibusdam possimus accusantium aut nemo atque provident rem magnam
-              eos amet ipsum nam, quo illum doloribus! Sapiente ab similique
-              fuga facere vero.
+              Education care simplifies the process of creating and
+              administering assessments. It automates grading and generates
+              insightful reports, helping educators identify areas for
+              improvement and provide targeted feedback to students very
+              instantly.
             </p>
             <p className="font-semibold text-red-500 mt-4 cursor-pointer">
               READ MORE &#8594;
@@ -48,13 +49,13 @@ function Products() {
 
           <div className="flex flex-col ">
             <h1 className=" md:text-3xl text-3xl pt-4 text-primaryColor md:text-justify text-center font-bold">
-            Services Three
+              Resource Management
             </h1>
             <p className=" mt-4 md:text-base text-base text-gray-700">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet quia
-              architecto consequatur eveniet temporibus, animi, dolore iusto
-              nisi, laudantium vitae culpa necessitatibus nobis minima cum ea.
-              Eaque dolor repellat asperiores?
+              The software optimizes resource allocation within educational
+              institutions, including managing classrooms, scheduling, and
+              resource sharing. This ensures that facilities and equipment are
+              efficiently utilized.
             </p>
             <p className="font-semibold text-red-500 mt-4 cursor-pointer">
               READ MORE &#8594;
@@ -85,10 +86,9 @@ function Products() {
             className="md:ml-[80px] ml-[20px] md:mr-[80px] mr-[20px] mt-4
            text-lg  md:text-gray-700  text-gray-700 "
           >
-            Whenever you release new features, let your changelog subscribers
-            know about them (but dont do it Fridays, please). Bring your update
-            straight to their email and use straightforward language, images,
-            and emoticons to get them excited.
+            The content and the services which we are offering are one of the
+            lowest prices in the market, making it affordable to people across
+            the world keeping in mind the higher quality of education.
           </p>
 
           <div className="flex justify-center mt-6 pb-4">
@@ -111,16 +111,16 @@ function Products() {
             className="mt-2 rounded-2xl md:w-2/3 md:ml-24 md:mr-0 w-full"
           />
         </div> */}
-         <div className="md:w-1/2 flex justify-center align-items-center ">
-            <Image
-              src="/5340737.jpg"
-              alt="img name"
-              width={300}
-              height={200}
-              className="mt-2 rounded-2xl md:w-2/3 
+        <div className="md:w-1/2 flex justify-center align-items-center ">
+          <Image
+            src="/5340737.jpg"
+            alt="img name"
+            width={300}
+            height={200}
+            className="mt-2 rounded-2xl md:w-2/3 
                md:ml-24 w-full"
-            />
-          </div>
+          />
+        </div>
       </div>
     </div>
   );

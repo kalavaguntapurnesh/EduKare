@@ -26,12 +26,11 @@ const Middle = () => {
           </div>
           <div className="p-6">
             <h1 className="block mb-2  text-center text-xl antialiased font-bold leading-snug tracking-normal text-primaryColor">
-             Software Automation
+             Cirriculum Lesson Planning
             </h1>
             <p className="block text-base antialiased font-normal text-gray-700 leading-relaxed text-inherit">
-              The place is close to Barceloneta Beach and bus stop just 2 min by
-              walk and near to where you can enjoy the main night life in
-              Barcelona.
+            Education care software assists teachers in creating and organizing lesson plans, syllabi, and learning materials. It ensures that
+             the curriculum aligns with educational standards and can be easily customized to meet specific needs.
             </p>
             
           </div>
@@ -53,12 +52,11 @@ const Middle = () => {
           </div>
           <div className="p-6">
             <h1 className="block mb-2 text-center text-xl antialiased font-bold leading-snug tracking-normal text-primaryColor">
-             Testing Reliability
+             Assesment & Grading
             </h1>
             <p className="block  text-base antialiased font-normal text-gray-700 leading-relaxed text-inherit text-blue-gray-900">
-              The place is close to Barceloneta Beach and bus stop just 2 min by
-              walk and near to where you can enjoy the main night life in
-              Barcelona.
+            Education care software simplifies the process of creating and administering assessments. It automates grading and generates insightful reports, 
+            helping educators identify areas for improvement and provide targeted feedback to students.
             </p>
           </div>
           <div className="p-6 pt-0">
@@ -79,12 +77,12 @@ const Middle = () => {
           </div>
           <div className="p-6">
             <h1 className="block mb-2  text-xl  text-center antialiased font-bold leading-snug tracking-normal text-primaryColor">
-              UI/UX Review Check
+              Analytics & Reporting
             </h1>
             <p className="block text-base antialiased font-normal text-gray-700 leading-relaxed text-inherit">
-              The place is close to Barceloneta Beach and bus stop just 2 min by
-              walk and near to where you can enjoy the main night life in
-              Barcelona.
+            Education care software often includes analytical tools that gather data on student performance, attendance, 
+            and engagement. These analytics provide valuable 
+            insights for educators and administrators to make data-driven decisions and track progress time.
             </p>
           </div>
           <div className="p-6 pt-0">
