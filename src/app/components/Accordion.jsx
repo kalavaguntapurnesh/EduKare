@@ -72,7 +72,7 @@ const Accordion = () => {
             <div className="overflow-hidden">
               <p className="pb-3 pt-3 text-base">
               The software facilitates student enrollment, data management, and academic progress tracking. 
-              It allows educators to keep detailed records of each student's performance and offers insights 
+              It allows educators to keep detailed records of each student performance and offers insights 
               into their strengths and weaknesses.
               </p>
             </div>

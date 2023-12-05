@@ -104,7 +104,7 @@ const Features = () => {
             <p className="block text-base antialiased font-medium leading-relaxed text-inherit">
               The software facilitates student enrollment, data management, and
               academic progress tracking, helping educators to keep detailed
-              records of each student's performance.
+              records of each student performance.
             </p>
           </div>
           <div className="p-6 pt-0">
